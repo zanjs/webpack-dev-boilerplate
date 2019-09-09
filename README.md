@@ -1,5 +1,7 @@
 # 基于React + Webpack + Babel的项目脚手架
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/webpack-dev-boilerplate.svg)](https://greenkeeper.io/)
+
 > 这个脚手架工程模板用于快速启动基于React + Webpack为技术栈的前端项目
 
 **Features：**
